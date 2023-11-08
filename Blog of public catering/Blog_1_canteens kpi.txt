@@ -1,3 +1,9 @@
 There are 4 canteens on the territory of Igor Sikorsky Kyiv Polytechnic Institute where you can have a delicious meal. 
 They are located in buildings 1, 5, 7, and 31. The dining rooms are open from 9:00 to 17:00, each with more than 40 seats. 
 You can get breakfast, lunch, coffee break from the wide range of dishes and drinks offered for a small amount of money.
+
+Location point:
+1)Peremohy Avenue, 37К1, Kyiv, Ukraine, 02000
+2)6, Politekhnichna Street, Kyiv, 02000
+3)Peremohy Avenue, 37К7, Kyiv, Ukraine, 02000
+4)Academic Building 31, 5A Mykhailo Braichevskoho Street, Kyiv, 02000
